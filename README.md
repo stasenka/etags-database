@@ -1,2 +1,2 @@
 # etags-database
-import WC PSAT + CLS data
+imports WC PSAT + CLS data to PostgresSQL
